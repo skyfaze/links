@@ -13,9 +13,11 @@ This repository might have some links that some people
 [finix(nixOS with alternate init systems) github](https://github.com/finix-community/finix)
 
 [nixOS website](https://nixos.org/)
+
 [nixOS manual](https://nixos.org/manual/nixos/stable/)
 
 [DDL video games for windows](https://steamrip.com/)
+
 [another one](www.ovagames.com)
 
 [Video game repacks for windows](https://fitgirl-repacks.site/)
@@ -45,6 +47,7 @@ This repository might have some links that some people
 [x86 CPU architecture assembler](https://www.nasm.us/)
 
 [qemu virtualization software](https://www.qemu.org/)
+
 [virtualbox virtualization software](https://www.virtualbox.org/)
 
 [OSdev series](https://brokenthorn.com/)
@@ -52,7 +55,9 @@ This repository might have some links that some people
 [Little book about OS developement](https://littleosbook.github.io/)
 
 [Game Decompilations](https://decomps.fun/)
+
 [Zelda OoT decompilation](https://www.shipofharkinian.com/)
+
 [Zelda MM decompilation](https://github.com/2ship2harkinian/2ship2harkinian)
 
 [List of books found in Ted Kaczynski's cabin](https://www.thetedkarchive.com/library/most-complete-fbi-list-of-ted-s-books)
