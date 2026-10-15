@@ -83,3 +83,34 @@ This repository might have some links that some people
 [Privacy and technology-focused 4chan clone](https://lainchan.org/)
 
 [DeepL(better than google translate)](https://www.deepl.com/en)
+
+---Oct. 14, 2026---
+
+[iOS jailbreaking guide](https://ios.cfw.guide/)
+
+[Official OpenPGP site](https://www.openpgp.org/)
+
+[Visual Reaction-diffuser explorer tool](https://karlsims.com/rdtool.html)
+
+[Very cool generative assets](https://fluid.krackeddevs.com/)
+
+[Useful discord linux/unix community](https://discord.gg/2F3N4BmPtB)
+
+[Jar scanner site for minecraft](https://www.jarscanner.org/)
+
+[Reverse engineer anything(kinda, js read it)](https://github.com/morluto/rea/)
+
+[Linux from scratch](https://www.linuxfromscratch.org/)
+
+[Linux from scratch guide](https://www.youtube.com/watch?v=DXUlaSYTLQI)
+
+[4Chan information library v2.1](https://archive.org/details/InformationLibraryAll.7z/info-library-v21.jpg)
+
+[Old 4Chan history stuff](https://archive.org/details/AHistoryOfChans)
+
+[desuarchive](https://desuarchive.org/)
+
+[4chan archives](https://4chanarchives.com/)
+
+[4chan copy number 2894389](https://warosu.org/)
+
